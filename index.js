@@ -11,6 +11,12 @@ app.get('/', (req, res)=>{
 app.get('/chef', (req, res)=>{
     res.send(chefData)
 })
+app.get('/chef/:id',(req, res)=>{
+    const id = parseInt(req.params.id);
+    console.log(id)
+    const selectedChef = chefData.find(chef => chef.id === id) || {}
+    res.send(selectedChef)
+})
 app.listen(port, ()=>{
     console.log(`Cher recipe website is running on port ${port}`)
 })
