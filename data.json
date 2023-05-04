@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Alice Smith",
+        "chef_picture": "https://example.com/chef-alice.jpg",
+        "years_of_experience": 10,
+        "ingredients": ["4 chicken breasts", "1 cup Italian breadcrumbs", "1/2 cup grated Parmesan cheese", "1 jar marinara sauce", "1 cup shredded mozzarella cheese"],
+        "method": "1. Preheat oven to 375°F. 2. Coat chicken breasts in breadcrumbs and Parmesan cheese. 3. Brown chicken in a skillet. 4. Pour marinara sauce over chicken. 5. Top with mozzarella cheese. 6. Bake for 25 minutes or until chicken is cooked through.",
+        "special_recipes": [
+            "Roasted chicken",
+            "Lemon pie",
+            "Beef stew",
+            "Cinnamon rolls",
+            "Pumpkin soup"
+        ],
+        "bio": "Alice Smith is a seasoned chef with over 10 years of experience in the culinary industry. She has worked in several high-end restaurants and has been featured in numerous cooking magazines. Alice's specialty is comfort food with a twist. She loves experimenting with classic recipes and adding her own unique flavors. Her signature dishes include roasted chicken with garlic and rosemary, lemon pie with a graham cracker crust, beef stew with red wine and root vegetables, cinnamon rolls with cream cheese frosting, and pumpkin soup with bacon and sage. When she's not in the kitchen, Alice enjoys hiking and reading cookbooks."
+    },
+    {
+        "id": 2,
+        "chef_name": "Bob Johnson",
+        "chef_picture": "https://example.com/chef-bob.jpg",
+        "years_of_experience": 8,
+        "ingredients": ["4 chicken breasts", "1 cup Italian breadcrumbs", "1/2 cup grated Parmesan cheese", "1 jar marinara sauce", "1 cup shredded mozzarella cheese"],
+        "method": "1. Preheat oven to 375°F. 2. Coat chicken breasts in breadcrumbs and Parmesan cheese. 3. Brown chicken in a skillet. 4. Pour marinara sauce over chicken. 5. Top with mozzarella cheese. 6. Bake for 25 minutes or until chicken is cooked through.",
+        "special_recipes": [
+            "Grilled steak",
+            "Taco salad",
+            "Shrimp scampi",
+            "Pesto pasta",
+            "Blueberry muffins"
+        ],
+        "bio": "Bob Johnson is a talented chef with a passion for bold flavors and fresh ingredients. He has worked in some of the most prestigious restaurants in the country and has won numerous awards for his innovative dishes. Bob's specialty is contemporary American cuisine with a focus on grilled meats and seafood. He loves using spices and herbs to add depth and complexity to his dishes. Some of his signature recipes include grilled steak with chimichurri sauce, taco salad with spicy salsa and avocado, shrimp scampi with linguine and lemon, pesto pasta with roasted cherry tomatoes and pine nuts, and blueberry muffins with streusel topping. When he's not in the kitchen, Bob enjoys playing golf and traveling."
+    },
+    {
+        "id": 3,
+        "chef_name": "Cathy Lee",
+        "chef_picture": "https://example.com/chef-cathy.jpg",
+        "years_of_experience": 6,
+        "ingredients": ["4 chicken breasts", "1 cup Italian breadcrumbs", "1/2 cup grated Parmesan cheese", "1 jar marinara sauce", "1 cup shredded mozzarella cheese"],
+        "method": "1. Preheat oven to 375°F. 2. Coat chicken breasts in breadcrumbs and Parmesan cheese. 3. Brown chicken in a skillet. 4. Pour marinara sauce over chicken. 5. Top with mozzarella cheese. 6. Bake for 25 minutes or until chicken is cooked through.",
+        "special_recipes": [
+            "Banh mi sandwich",
+            "Pho noodle soup",
+            "Green curry chicken",
+            "Pad thai",
+            "Mango sticky rice"
+        ],
+        "bio": "Cathy Lee is a talented chef who specializes in Asian cuisine. She has traveled extensively throughout Southeast Asia and has trained with some of the best chefs in the region. Cathy's specialty is Vietnamese cuisine, but she also loves cooking Thai and Chinese dishes. She uses fresh herbs, spices, and vegetables to create bold and flavorful dishes. Some of her signature recipes include banh mi sandwich with pickled vegetables and spicy mayo, pho noodle soup with rare beef and herbs, green curry chicken with jasmine rice, pad thai with shrimp and tofu, and mango sticky rice with coconut milk and sesame seeds. When she's not in the kitchen, Cathy enjoys practicing yoga and learning new recipes."
+    },
+    {
+        "id": 4,
+        "chef_name": "David Kim",
+        "chef_picture": "https://example.com/chef-david.jpg",
+        "years_of_experience": 12,
+        "ingredients": ["1/2 pound cooked lobster meat", "2 tablespoons butter", "1 onion", "2 cloves garlic", "2 cups chicken broth", "1 cup heavy cream"],
+        "method": "1. Preheat oven to 450°F. 2. Line a baking sheet with parchment paper. 3. Spread ice cream onto parchment paper. 4. Freeze for 1 hour. 5. Beat egg whites and cream of tartar until stiff peaks form. 6. Combine flour, cornstarch, and baking powder in a bowl. 7. Fold egg whites into flour mixture. 8. Spread mixture over ice cream. 9. Bake for 5-7 minutes or until golden brown.",
+        "special_recipes": [
+            "Grilled salmon",
+            "Quinoa salad",
+            "Banh mi sandwich",
+            "Pho noodle soup",
+            "Green curry chicken"
+        ],
+        "bio": "Cathy Lee is a talented chef who specializes in Asian cuisine. She has traveled extensively throughout Southeast Asia and has trained with some of the best chefs in the region. Cathy's specialty is Vietnamese cuisine, but she also loves cooking Thai and Chinese dishes. She uses fresh herbs, spices, and vegetables to create bold and flavorful dishes. Some of her signature recipes include banh mi sandwich with pickled vegetables and spicy mayo, pho noodle soup with rare beef and herbs, green curry chicken with jasmine rice, pad thai with shrimp and tofu, and mango sticky rice with coconut milk and sesame seeds. When she's not in the kitchen, Cathy enjoys practicing yoga and learning new recipes."
+    },
+    {
+        "id": 123,
+        "chefName": "John Smith",
+        "chefPicture": "https://example.com/john-smith.jpg",
+        "yearsOfExperience": 10,
+        "ingredients": ["4 chicken breasts", "1 cup Italian breadcrumbs", "1/2 cup grated Parmesan cheese", "1 jar marinara sauce", "1 cup shredded mozzarella cheese"],
+        "method": "1. Preheat oven to 450°F. 2. Line a baking sheet with parchment paper. 3. Spread ice cream onto parchment paper. 4. Freeze for 1 hour. 5. Beat egg whites and cream of tartar until stiff peaks form. 6. Combine flour, cornstarch, and baking powder in a bowl. 7. Fold egg whites into flour mixture. 8. Spread mixture over ice cream. 9. Bake for 5-7 minutes or until golden brown.",
+        "specialRecipes": [
+            "Roasted Chicken",
+            "Beef Stew",
+            "Lasagna",
+            "Baked Salmon",
+            "Apple Pie"
+        ],
+        "bio": "John Smith is a seasoned chef with over 10 years of experience in the culinary world. He specializes in creating mouth-watering dishes that are sure to please any palate. His special recipes include Roasted Chicken, Beef Stew, Lasagna, Baked Salmon, and Apple Pie. Whether you're looking for comfort food or something a little more gourmet, John has you covered. With his years of experience and passion for cooking, you can trust that every dish he creates will be a culinary masterpiece. Try one of his special recipes today and taste the difference!"
+    }
+]
