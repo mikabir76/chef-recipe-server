@@ -2,8 +2,10 @@
     {
         "id": 1,
         "chef_name": "Alice Smith",
-        "chef_picture": "https://example.com/chef-alice.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1654759242.1680368383&semt=robertav1_2_sidr",
         "years_of_experience": 10,
+        "ratting" : 4,
+        "likes" : "1k",
         "ingredients": ["4 chicken breasts", "1 cup Italian breadcrumbs", "1/2 cup grated Parmesan cheese", "1 jar marinara sauce", "1 cup shredded mozzarella cheese"],
         "method": "1. Preheat oven to 375°F. 2. Coat chicken breasts in breadcrumbs and Parmesan cheese. 3. Brown chicken in a skillet. 4. Pour marinara sauce over chicken. 5. Top with mozzarella cheese. 6. Bake for 25 minutes or until chicken is cooked through.",
         "special_recipes": [
@@ -18,8 +20,10 @@
     {
         "id": 2,
         "chef_name": "Bob Johnson",
-        "chef_picture": "https://example.com/chef-bob.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?size=626&ext=jpg&ga=GA1.2.1654759242.1680368383&semt=robertav1_2_sidr",
         "years_of_experience": 8,
+        "ratting" : 4.5,
+        "likes" : "1.5k",
         "ingredients": ["4 chicken breasts", "1 cup Italian breadcrumbs", "1/2 cup grated Parmesan cheese", "1 jar marinara sauce", "1 cup shredded mozzarella cheese"],
         "method": "1. Preheat oven to 375°F. 2. Coat chicken breasts in breadcrumbs and Parmesan cheese. 3. Brown chicken in a skillet. 4. Pour marinara sauce over chicken. 5. Top with mozzarella cheese. 6. Bake for 25 minutes or until chicken is cooked through.",
         "special_recipes": [
@@ -34,8 +38,10 @@
     {
         "id": 3,
         "chef_name": "Cathy Lee",
-        "chef_picture": "https://example.com/chef-cathy.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.1654759242.1680368383&semt=robertav1_2_sidr",
         "years_of_experience": 6,
+        "ratting" : 4.5,
+        "likes" : "2k",
         "ingredients": ["4 chicken breasts", "1 cup Italian breadcrumbs", "1/2 cup grated Parmesan cheese", "1 jar marinara sauce", "1 cup shredded mozzarella cheese"],
         "method": "1. Preheat oven to 375°F. 2. Coat chicken breasts in breadcrumbs and Parmesan cheese. 3. Brown chicken in a skillet. 4. Pour marinara sauce over chicken. 5. Top with mozzarella cheese. 6. Bake for 25 minutes or until chicken is cooked through.",
         "special_recipes": [
@@ -50,8 +56,10 @@
     {
         "id": 4,
         "chef_name": "David Kim",
-        "chef_picture": "https://example.com/chef-david.jpg",
+        "chef_picture": "https://img.freepik.com/premium-photo/cropped-shot-young-male-chef-preparing-meal-professional-kitchen_579247-36.jpg?size=626&ext=jpg&ga=GA1.2.1654759242.1680368383&semt=robertav1_2_sidr",
         "years_of_experience": 12,
+        "ratting" : 4,
+        "likes" : "1.8k",
         "ingredients": ["1/2 pound cooked lobster meat", "2 tablespoons butter", "1 onion", "2 cloves garlic", "2 cups chicken broth", "1 cup heavy cream"],
         "method": "1. Preheat oven to 450°F. 2. Line a baking sheet with parchment paper. 3. Spread ice cream onto parchment paper. 4. Freeze for 1 hour. 5. Beat egg whites and cream of tartar until stiff peaks form. 6. Combine flour, cornstarch, and baking powder in a bowl. 7. Fold egg whites into flour mixture. 8. Spread mixture over ice cream. 9. Bake for 5-7 minutes or until golden brown.",
         "special_recipes": [
@@ -65,12 +73,14 @@
     },
     {
         "id": 5,
-        "chefName": "John Smith",
-        "chefPicture": "https://example.com/john-smith.jpg",
-        "yearsOfExperience": 10,
+        "chef_name": "John Smith",
+        "chef_picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?size=626&ext=jpg&ga=GA1.1.1654759242.1680368383&semt=robertav1_2_sidr",
+        "years_of_experience": 10,
+        "ratting" : 5,
+        "likes" : "1.2k",
         "ingredients": ["4 chicken breasts", "1 cup Italian breadcrumbs", "1/2 cup grated Parmesan cheese", "1 jar marinara sauce", "1 cup shredded mozzarella cheese"],
         "method": "1. Preheat oven to 450°F. 2. Line a baking sheet with parchment paper. 3. Spread ice cream onto parchment paper. 4. Freeze for 1 hour. 5. Beat egg whites and cream of tartar until stiff peaks form. 6. Combine flour, cornstarch, and baking powder in a bowl. 7. Fold egg whites into flour mixture. 8. Spread mixture over ice cream. 9. Bake for 5-7 minutes or until golden brown.",
-        "specialRecipes": [
+        "special_recipes": [
             "Roasted Chicken",
             "Beef Stew",
             "Lasagna",
@@ -82,8 +92,10 @@
     {
         "id": 6,
         "chef_name": "Bob Merley",
-        "chef_picture": "https://example.com/chef-bob.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-presenting-something-white-background_1368-2825.jpg?size=626&ext=jpg&ga=GA1.1.1654759242.1680368383&semt=robertav1_2_sidr",
         "years_of_experience": 11,
+        "ratting" : 4,
+        "likes" : "2.1k",
         "ingredients": ["4 chicken breasts", "1 cup Italian breadcrumbs", "1/2 cup grated Parmesan cheese", "1 jar marinara sauce", "1 cup shredded mozzarella cheese"],
         "method": "1. Preheat oven to 375°F. 2. Coat chicken breasts in breadcrumbs and Parmesan cheese. 3. Brown chicken in a skillet. 4. Pour marinara sauce over chicken. 5. Top with mozzarella cheese. 6. Bake for 25 minutes or until chicken is cooked through.",
         "special_recipes": [
